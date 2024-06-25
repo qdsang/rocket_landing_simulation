@@ -7,9 +7,13 @@
 
 ## Preview
 
-<img src="./docs/preview.gif" style="width: 30%;" title="Rocket Landing Preview" />
-<img src="./docs/preview2.gif" style="width: 30%;" title="Rocket Landing Preview" />
-<img src="./docs/preview3.gif" style="width: 30%;" title="Rocket Landing Preview" />
+<table>
+<tr>
+    <td><img src="./docs/preview.gif" title="Rocket Landing Preview" /></td>
+    <td><img src="./docs/preview2.gif" title="Rocket Landing Preview" /></td>
+    <td><img src="./docs/preview3.gif" title="Rocket Landing Preview" /></td>
+</tr>
+</table>
 
 
 ## Installation
